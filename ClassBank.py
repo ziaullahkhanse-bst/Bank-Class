@@ -19,7 +19,7 @@ class BankAccount:
     def get_balance(self):
         return self.balance
 
-# Test the class
+
 account = BankAccount("Ali", 100)
 
 print("Owner:", account.owner)
